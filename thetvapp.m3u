@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/unitedstates3.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
