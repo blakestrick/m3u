@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml"
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="HD Live",A&E
 https://v17.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
