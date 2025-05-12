@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
 
 #EXTINF:-1 group-title="未分类",1
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1
