@@ -1,1 +1,1 @@
-# m3u playlist database
+# m3u
