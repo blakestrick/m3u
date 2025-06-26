@@ -77,11 +77,11 @@ http://fl1.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX",CINEMAX
+http://fl1.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-http://fl1.moveonjoy.com/CINEMAX/index.m3u8
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
