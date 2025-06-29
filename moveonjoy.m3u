@@ -337,7 +337,7 @@ http://fl1.moveonjoy.com/VICELAND/index.m3u8
 http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="WEATHER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="LIVE",WEATHER CHANNEL
 http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-name="WETV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE",WETV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="WETV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="LIVE",WETV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="WGN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" group-title="LIVE",WGN
 http://fl1.moveonjoy.com/WGN/index.m3u8
