@@ -209,7 +209,7 @@ http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="LIVE",MTV2
 http://fl1.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="MTVU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="LIVE",MTVU
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="MTVU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="LIVE",MTVU
 http://fl1.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="LIVE",NATIONAL GEOGRAPHIC
 http://fl1.moveonjoy.com/National_Geographic/index.m3u8
