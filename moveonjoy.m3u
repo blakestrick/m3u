@@ -335,6 +335,18 @@ http://fl1.moveonjoy.com/WGN/index.m3u8
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YES.Network.us" tvg-name="YES NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="Live",YES NETWORK
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 01" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 01
+http://fl1.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 02" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 02
+http://fl1.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 03" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 03
+http://fl1.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 04" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 04
+http://fl1.moveonjoy.com/PPV_4/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 05" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 05
+http://fl1.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 06" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 06
+http://fl1.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Events",MLB 01
 http://fl1.moveonjoy.com/MLB_1/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="MLB 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="Events",MLB 02
@@ -429,15 +441,3 @@ http://fl5.moveonjoy.com/NHL_10/index.m3u8
 http://fl5.moveonjoy.com/NHL_11/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="Events",NHL 13
 http://fl5.moveonjoy.com/NHL_13/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 01" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 01
-http://fl1.moveonjoy.com/PPV_1/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 02" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 02
-http://fl1.moveonjoy.com/PPV_2/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 03" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 03
-http://fl1.moveonjoy.com/PPV_3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 04" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 04
-http://fl1.moveonjoy.com/PPV_4/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 05" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 05
-http://fl1.moveonjoy.com/PPV_5/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV 06" tvg-logo="https://billing.ppviptv.co/assets/img/logo.png" group-title="Events",PPV 06
-http://fl1.moveonjoy.com/PPV_6/index.m3u8
