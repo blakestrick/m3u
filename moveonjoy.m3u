@@ -145,7 +145,7 @@ http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="HALLMARK CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="LIVE",HALLMARK CHANNEL
 http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="HALLMARK FAMILY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE",HALLMARK FAMILY
+#EXTINF:-1 tvg-id="Hallmark.Family.HDTV.us" tvg-name="HALLMARK FAMILY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="LIVE",HALLMARK FAMILY
 http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="HALLMARK MYSTERY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="LIVE",HALLMARK MYSTERY
 http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
