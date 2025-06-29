@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="LIVE",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACC NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="LIVE",ACC NETWORK
