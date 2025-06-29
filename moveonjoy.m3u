@@ -161,8 +161,6 @@ http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="ION.Plus.TV.us" tvg-name="ION PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="LIVE",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="LAFF TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="LIVE",LAFF TV
-http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE",LIFETIME
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE",LIFETIME MOVIE NETWORK
