@@ -61,8 +61,6 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="ThrillerMax.-.East.us" tvg-name="CINEMAX THRILLERMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="LIVE",CINEMAX THRILLERMAX
 http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="LIVE",CINEMAX WEST
-http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CLEO.TV.us" tvg-name="CLEO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="LIVE",CLEO TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="LIVE",CMT
@@ -177,8 +175,6 @@ http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="ION.Plus.TV.us" tvg-name="ION PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="LIVE",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="LAFF TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="LIVE",LAFF TV
-http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="LIVE",LIFETIME
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="LIVE",LIFETIME MOVIE NETWORK
