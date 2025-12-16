@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypz424s511m3ydxq"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://m3u4u.com/m3u/3m97ypz424s511m3ydxq
-
 #EXTINF:-1 tvg-id="WABCDT.us" tvg-name="02 ABC Atlanta (WSB)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127879_dark_360w_270h.png" group-title="Live All",02 ABC Atlanta (WSB)
 http://lucidhosting.xyz:82/live/coopdogg2540@frontier.com/VTbwmwte/2045.ts
 #EXTINF:-1 tvg-id="WAGADT.us" tvg-name="05 FOX Atlanta (WAGA)" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2022/04/WAGA-FOX-Channel-46-1.png" group-title="Live All",05 FOX Atlanta (WAGA)
@@ -27,7 +23,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3077.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/332892.ts
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Live All",AMC
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3608.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="Live All",AMC+
+#EXTINF:-1 tvg-id="AMCplus.us" tvg-name="AMC+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="Live All",AMC+
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/339687.ts
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0022LF21.png_dark_360w_270h.png" group-title="Live All",American Heroes Channel
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/2663.ts
@@ -49,11 +45,11 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3610.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/2657.ts
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Live All",BET
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/21895.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63236_dark_360w_270h.png" group-title="Live All",BET West
+#EXTINF:-1 tvg-id="BET(Pacific).us" tvg-name="BET West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63236_dark_360w_270h.png" group-title="Live All",BET West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/48973.ts
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Live All",BET Her
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3946.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET Jams" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="Live All",BET Jams
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="Live All",BET Jams
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3947.ts
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="Live All",Big Ten Network
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/4443.ts
@@ -105,19 +101,19 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3624.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3715.ts
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Live All",Comedy Central
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/648957.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62420_dark_360w_270h.png" group-title="Live All",Comedy Central West
+#EXTINF:-1 tvg-id="ComedyCentral(Pacific).us" tvg-name="Comedy Central West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62420_dark_360w_270h.png" group-title="Live All",Comedy Central West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/89211.ts
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Live All",Comet
 http://relaxes.xyz:8080/live/Above/Makayla1223/280815.ts
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Live All",Cooking Channel
 http://relaxes.xyz:8080/live/Above/Makayla1223/131780.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crave 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="Live All",Crave 1
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="Crave 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="Live All",Crave 1
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3184.ts
 #EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="Crave 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65988_dark_360w_270h.png" group-title="Live All",Crave 2
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3185.ts
 #EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="Crave 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65990_dark_360w_270h.png" group-title="Live All",Crave 3
 http://relaxes.xyz:8080/live/Above/Makayla1223/429505.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crave 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="Live All",Crave 4
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="Crave 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="Live All",Crave 4
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3187.ts
 #EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime + Investigation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="Live All",Crime + Investigation
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/20211.ts
@@ -145,7 +141,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3113.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/2589.ts
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Live All",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="Live All",Dog TV
+#EXTINF:-1 tvg-id="DOGTV.us" tvg-name="Dog TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="Live All",Dog TV
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/76439.ts
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Live All",E! Entertainment Television
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3635.ts
@@ -163,7 +159,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/131822.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3638.ts
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Live All",ESPNEWS
 http://relaxes.xyz:8080/live/Above/Makayla1223/131821.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FanDuel Sports South" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12410_dark_360w_270h.png" group-title="Live All",FanDuel Sports South
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSouthOutofMarket.us" tvg-name="FanDuel Sports South" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12410_dark_360w_270h.png" group-title="Live All",FanDuel Sports South
 http://relaxes.xyz:8080/live/Above/Makayla1223/425423.ts
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheastOutofMarket.us" tvg-name="FanDuel Sports Southeast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61138_dark_360w_270h.png" group-title="Live All",FanDuel Sports Southeast
 http://relaxes.xyz:8080/live/Above/Makayla1223/425425.ts
@@ -199,7 +195,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/131832.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3649.ts
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Live All",Game Show Network
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3650.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48727_dark_360w_270h.png" group-title="Live All",Game TV
+#EXTINF:-1 tvg-id="GameTV(English).ca" tvg-name="Game TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48727_dark_360w_270h.png" group-title="Live All",Game TV
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3103.ts
 #EXTINF:-1 tvg-id="get.us" tvg-name="get TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="Live All",get TV
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/30928.ts
@@ -229,11 +225,11 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/51551.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/2116.ts
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BBX8.png_dark_360w_270h.png" group-title="Live All",HBO Movies
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/51552.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61568_dark_360w_270h.png" group-title="Live All",HBO 1 Canada
+#EXTINF:-1 tvg-id="HBO1(English).ca" tvg-name="HBO 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61568_dark_360w_270h.png" group-title="Live All",HBO 1 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3189.ts
 #EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="HBO 2 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61777_dark_360w_270h.png" group-title="Live All",HBO 2 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3188.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heroes & Icons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90401_dark_360w_270h.png" group-title="Live All",Heroes & Icons
+#EXTINF:-1 tvg-id="HeroesandIconsNetwork.us" tvg-name="Heroes & Icons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90401_dark_360w_270h.png" group-title="Live All",Heroes & Icons
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/61858.ts
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Live All",HGTV
 http://relaxes.xyz:8080/live/Above/Makayla1223/131785.ts
@@ -263,13 +259,13 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3659.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647764.ts
 #EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="Lifetime Real Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29612_dark_360w_270h.png" group-title="Live All",Lifetime Real Women
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/470623.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Live All",Logo
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Live All",Logo
 http://relaxes.xyz:8080/live/Above/Makayla1223/236496.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png" group-title="Live All",Love Nature
+#EXTINF:-1 tvg-id="LoveNature(English).ca" tvg-name="Love Nature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png" group-title="Live All",Love Nature
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3167.ts
 #EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18544_dark_360w_270h.png" group-title="Live All",Magnolia Network
 http://relaxes.xyz:8080/live/Above/Makayla1223/271101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Live All",MeTV
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Live All",MeTV
 http://relaxes.xyz:8080/live/Above/Makayla1223/98278.ts
 #EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s159817_dark_360w_270h.png" group-title="Live All",MeTV Toons
 http://lucidhosting.xyz:82/live/coopdogg2540@frontier.com/VTbwmwte/408188.ts
@@ -279,7 +275,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3949.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/635603.ts
 #EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="MGM+ Drive-In" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68409_dark_360w_270h.png" group-title="Live All",MGM+ Drive-In
 http://relaxes.xyz:8080/live/Above/Makayla1223/9496.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+ Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Live All",MGM+ Hits
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="MGM+ Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Live All",MGM+ Hits
 http://relaxes.xyz:8080/live/Above/Makayla1223/5058.ts
 #EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="MGM+ Marquee" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png" group-title="Live All",MGM+ Marquee
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/4430.ts
@@ -303,7 +299,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631837.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/236505.ts
 #EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="Live All",MTV2
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/57968.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUCH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72139_dark_360w_270h.png" group-title="Live All",MUCH
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="MUCH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72139_dark_360w_270h.png" group-title="Live All",MUCH
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3149.ts
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Live All",National Geographic
 http://relaxes.xyz:8080/live/Above/Makayla1223/131762.ts
@@ -319,7 +315,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/272661.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/192629.ts
 #EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="Live All",NewsNation
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647784.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="Live All",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="Live All",NFL Network 
 http://tkosportz.live:25461/live/randym6375/6375/40691.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network Alternate" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Live All",NFL Network Alternate
 http://relaxes.xyz:8080/live/Above/Makayla1223/4643.ts
@@ -353,7 +349,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/131739.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647379.ts
 #EXTINF:-1 tvg-id="PBS(English).pr" tvg-name="PBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33453_dark_360w_270h.png" group-title="Live All",PBS
 http://tkosportz.live:25461/live/randym6375/6375/13128.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pixl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70113_dark_360w_270h.png" group-title="Live All",Pixl
+#EXTINF:-1 tvg-id="PixL.us" tvg-name="Pixl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70113_dark_360w_270h.png" group-title="Live All",Pixl
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/89043.ts
 #EXTINF:-1 tvg-id="POP.us" tvg-name="POP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68796_dark_360w_270h.png" group-title="Live All",POP
 http://relaxes.xyz:8080/live/Above/Makayla1223/131733.ts
@@ -361,7 +357,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/131733.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/36743.ts
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Live All",REELZ
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/42307.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="Live All",RetroPlex
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="Live All",RetroPlex
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/74685.ts
 #EXTINF:-1 tvg-id="RTDocumentary(English).ch" tvg-name="RT Documentary" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109586_dark_360w_270h.png" group-title="Live All",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -385,7 +381,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/2157.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631884.ts
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Live All",Showtime Family Zone
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3969.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Family Zone West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Live All",Showtime Family Zone West
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone(Pacific).us" tvg-name="Showtime Family Zone West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Live All",Showtime Family Zone West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631918.ts
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Live All",Showtime Next
 http://relaxes.xyz:8080/live/Above/Makayla1223/5052.ts
@@ -395,7 +391,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631889.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/236511.ts
 #EXTINF:-1 tvg-id="ShowtimeShowcase(Pacific)(English).pr" tvg-name="Showtime Showcase West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16153_dark_360w_270h.png" group-title="Live All",Showtime Showcase West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631890.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime SHOxBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Live All",Showtime SHOxBET
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="Showtime SHOxBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Live All",Showtime SHOxBET
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/648983.ts
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="Live All",Showtime Women
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/648986.ts
@@ -423,7 +419,7 @@ http://161.123.116.86:8880/live/Shearsy10/ZZ452mfX3TGf/221.ts
 http://161.123.116.86:8880/live/Shearsy10/ZZ452mfX3TGf/29901.ts
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50176_dark_360w_270h.png" group-title="Live All",Sky Cinema Thriller
 http://161.123.116.86:8880/live/Shearsy10/ZZ452mfX3TGf/223.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53121_dark_360w_270h.png" group-title="Live All",Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianChannel(English).ca" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53121_dark_360w_270h.png" group-title="Live All",Smithsonian Channel
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3812.ts
 #EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Live All",Sony Movie Channel
 http://relaxes.xyz:8080/live/Above/Makayla1223/179366.ts
@@ -459,7 +455,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3955.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3962.ts
 #EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Live All",Starz Kids & Family
 http://relaxes.xyz:8080/live/Above/Makayla1223/5039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49338_dark_360w_270h.png" group-title="Live All",Starz 1 Canada
+#EXTINF:-1 tvg-id="STARZ1(English).ca" tvg-name="Starz 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49338_dark_360w_270h.png" group-title="Live All",Starz 1 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3205.ts
 #EXTINF:-1 tvg-id="STARZ2(English).ca" tvg-name="Starz 2 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77045_dark_360w_270h.png" group-title="Live All",Starz 2 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3206.ts
@@ -523,13 +519,13 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3699.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/645915.ts
 #EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Live All",WE tv
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/2378.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fishing Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XW9V.png_dark_360w_270h.png" group-title="Live All",World Fishing Network
+#EXTINF:-1 tvg-id="WorldFishingNetwork(US).us" tvg-name="World Fishing Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XW9V.png_dark_360w_270h.png" group-title="Live All",World Fishing Network
 http://relaxes.xyz:8080/live/Above/Makayla1223/2196.ts
 #EXTINF:-1 tvg-id="WWECHANNEL(src04).za" tvg-name="WWE Network" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WWE.png" group-title="Live All",WWE Network
 http://relaxes.xyz:8080/live/Above/Makayla1223/131685.ts
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="Live All",YES Network
 http://relaxes.xyz:8080/live/Above/Makayla1223/131683.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="Live All",YTV
+#EXTINF:-1 tvg-id="YTV(English).ca" tvg-name="YTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="Live All",YTV
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647754.ts
 #EXTINF:-1 tvg-id="YTVP(English).ca" tvg-name="YTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16320_dark_360w_270h.png" group-title="Live All",YTV West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647755.ts
@@ -589,7 +585,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 http://relaxes.xyz:8080/live/Above/Makayla1223/272661.ts
 #EXTINF:-1 tvg-id="KNBCDT.us" tvg-name="NBC LA (KNBC)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="Sports",NBC LA (KNBC)
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/2453.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="Sports",NFL Network 
 http://tkosportz.live:25461/live/randym6375/6375/40691.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network Alternate" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="Sports",NFL Network Alternate
 http://relaxes.xyz:8080/live/Above/Makayla1223/4643.ts
@@ -615,8 +611,6 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/182397.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/182398.ts
 #EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90125_dark_360w_270h.png" group-title="Sports",TSN 5
 http://relaxes.xyz:8080/live/Above/Makayla1223/182399.ts
-#EXTINF:-1 tvg-id="WWECHANNEL(src04).za" tvg-name="WWE RAW" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WWE.png" group-title="Sports",WWE RAW
-http://tkosportz.live:25461/live/randym6375/6375/41056.ts
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="Movies",Cinemax
 http://relaxes.xyz:8080/live/Above/Makayla1223/131759.ts
 #EXTINF:-1 tvg-id="Cinemax(Pacific).us" tvg-name="Cinemax West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="Movies",Cinemax West
@@ -627,13 +621,13 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/346620.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/81384.ts
 #EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029CKC8.png_dark_360w_270h.png" group-title="Movies",Cinemax Hits
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/51553.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crave 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="Movies",Crave 1
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="Crave 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="Movies",Crave 1
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3184.ts
 #EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="Crave 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65988_dark_360w_270h.png" group-title="Movies",Crave 2
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3185.ts
 #EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="Crave 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65990_dark_360w_270h.png" group-title="Movies",Crave 3
 http://relaxes.xyz:8080/live/Above/Makayla1223/429505.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crave 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="Movies",Crave 4
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="Crave 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="Movies",Crave 4
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3187.ts
 #EXTINF:-1 tvg-id="Flix.us" tvg-name="FLIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10201_dark_360w_270h.png" group-title="Movies",FLIX
 http://lucidhosting.xyz:82/live/coopdogg2540@frontier.com/VTbwmwte/53803.ts
@@ -651,7 +645,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/51551.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/2116.ts
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BBX8.png_dark_360w_270h.png" group-title="Movies",HBO Movies
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/51552.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61568_dark_360w_270h.png" group-title="Movies",HBO 1 Canada
+#EXTINF:-1 tvg-id="HBO1(English).ca" tvg-name="HBO 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61568_dark_360w_270h.png" group-title="Movies",HBO 1 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3189.ts
 #EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="HBO 2 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61777_dark_360w_270h.png" group-title="Movies",HBO 2 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3188.ts
@@ -661,7 +655,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3949.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/635603.ts
 #EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="MGM+ Drive-In" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68409_dark_360w_270h.png" group-title="Movies",MGM+ Drive-In
 http://relaxes.xyz:8080/live/Above/Makayla1223/9496.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+ Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Movies",MGM+ Hits
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="MGM+ Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73075_dark_360w_270h.png" group-title="Movies",MGM+ Hits
 http://relaxes.xyz:8080/live/Above/Makayla1223/5058.ts
 #EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="MGM+ Marquee" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png" group-title="Movies",MGM+ Marquee
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/4430.ts
@@ -669,7 +663,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/4430.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/93059.ts
 #EXTINF:-1 tvg-id="MoviePlex.us" tvg-name="MoviePlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15295_dark_360w_270h.png" group-title="Movies",MoviePlex
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/93060.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="Movies",RetroPlex
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="Movies",RetroPlex
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/74685.ts
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Movies",Showtime
 http://relaxes.xyz:8080/live/Above/Makayla1223/2155.ts
@@ -685,7 +679,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/2157.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631884.ts
 #EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3969.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Family Zone West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone West
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone(Pacific).us" tvg-name="Showtime Family Zone West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Movies",Showtime Family Zone West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631918.ts
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Movies",Showtime Next
 http://relaxes.xyz:8080/live/Above/Makayla1223/5052.ts
@@ -695,7 +689,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631889.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/236511.ts
 #EXTINF:-1 tvg-id="ShowtimeShowcase(Pacific)(English).pr" tvg-name="Showtime Showcase West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16153_dark_360w_270h.png" group-title="Movies",Showtime Showcase West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/631890.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime SHOxBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Movies",Showtime SHOxBET
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="Showtime SHOxBET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png" group-title="Movies",Showtime SHOxBET
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/648983.ts
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="Movies",Showtime Women
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/648986.ts
@@ -757,7 +751,7 @@ http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3955.ts
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3962.ts
 #EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19635_dark_360w_270h.png" group-title="Movies",Starz Kids & Family
 http://relaxes.xyz:8080/live/Above/Makayla1223/5039.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49338_dark_360w_270h.png" group-title="Movies",Starz 1 Canada
+#EXTINF:-1 tvg-id="STARZ1(English).ca" tvg-name="Starz 1 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49338_dark_360w_270h.png" group-title="Movies",Starz 1 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3205.ts
 #EXTINF:-1 tvg-id="STARZ2(English).ca" tvg-name="Starz 2 Canada" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77045_dark_360w_270h.png" group-title="Movies",Starz 2 Canada
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/3206.ts
@@ -797,7 +791,7 @@ http://relaxes.xyz:8080/live/Above/Makayla1223/131744.ts
 http://relaxes.xyz:8080/live/Above/Makayla1223/208561.ts
 #EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115495_dark_360w_270h.png" group-title="Kids",Sky Cinema Animation
 http://161.123.116.86:8880/live/Shearsy10/ZZ452mfX3TGf/214.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="Kids",YTV
+#EXTINF:-1 tvg-id="YTV(English).ca" tvg-name="YTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="Kids",YTV
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647754.ts
 #EXTINF:-1 tvg-id="YTVP(English).ca" tvg-name="YTV West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16320_dark_360w_270h.png" group-title="Kids",YTV West
 http://restream-live.realiptv.to:8080//live/Theone-restream/o3kTHZ0JdL/647755.ts
